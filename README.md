@@ -1,4 +1,4 @@
-# Java 35/36m
+# Java 35/36MA
 
 - [Homework 02.09.22](https://github.com/RobGev23/Java/blob/main/HW_02.09.22/src/Main.java)
 - [Homework 05.09.22](https://github.com/RobGev23/Java/blob/main/HW_05.09.22/src/Main.java)
