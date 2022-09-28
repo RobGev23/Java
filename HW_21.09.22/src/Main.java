@@ -6,7 +6,9 @@ public class Main {
          */
         int[] array = {1, 3, 6, -1, 4, -5, 9};
         System.out.println(getMinNumber(array));
-        
+
+        //String [] arr= {"qwe","axcvbn","qwertyuio","qas"};
+
 
     }
 
