@@ -8,3 +8,4 @@
 - [Homework 16.09.22](https://github.com/RobGev23/Java/blob/main/HW_16.09.22/src/Main.java)
 - [Homework 21.09.22](https://github.com/RobGev23/Java/blob/main/HW_21.09.22/src/Main.java)
 - [Homework 23.09.22](https://github.com/RobGev23/Java/blob/main/HW_23.09.22/src/Main.java)
+- [Homework 05.10.22](https://github.com/RobGev23/Java/blob/main/Homework_05.10.22/src/Main.java)
