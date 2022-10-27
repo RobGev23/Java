@@ -8,18 +8,18 @@ public class Main {
        создать несколько сотрудников и применить к ним методы
        */
 
-        Employee employee=new Employee("John",499,7);
-        Employee employee1=new Employee("Ann",500,6);
-        Employee employee2=new Employee("Jack",350,7);
-
-        System.out.println("Salary of Employee = "+ employee.name+" "+employee.addSalary()+"$");
-        System.out.println( "Salary of Employee with working hours = "+ employee.name+" "+employee.addWorkingHours()+"$");
+        Employee employee1 = new Employee("John",499,7);
+        Employee employee2 = new Employee("Ann",500,6);
+        Employee employee3 = new Employee("Jack",350,7);
 
         System.out.println("Salary of Employee = "+ employee1.name+" "+employee1.addSalary()+"$");
-        System.out.println("Salary of Employee with working hours = "+ employee1.name+" "+employee1.addWorkingHours()+"$");
+        System.out.println( "Salary of Employee with working hours = "+ employee1.name+" "+employee1.addWorkingHours()+"$");
 
         System.out.println("Salary of Employee = "+ employee2.name+" "+employee2.addSalary()+"$");
         System.out.println("Salary of Employee with working hours = "+ employee2.name+" "+employee2.addWorkingHours()+"$");
+
+        System.out.println("Salary of Employee = "+ employee3.name+" "+employee3.addSalary()+"$");
+        System.out.println("Salary of Employee with working hours = "+ employee3.name+" "+employee3.addWorkingHours()+"$");
 
 
         /*
