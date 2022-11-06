@@ -11,3 +11,4 @@
 - [Homework 05.10.22](https://github.com/RobGev23/Java/blob/main/Homework_05.10.22/src/Main.java)
 - [Homework 14.10.22](https://github.com/RobGev23/Java/tree/main/HW_14.10.22/src)
 - [Homework 21.10.22](https://github.com/RobGev23/Java/tree/main/HW_21.10.22/src)
+- [Homework 17.10.22](https://github.com/RobGev23/Java/tree/main/hw_17.10.22/src)
