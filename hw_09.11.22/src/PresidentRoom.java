@@ -1,12 +1,8 @@
 public class PresidentRoom extends Rooms {
-    public PresidentRoom(double price, MyDate myDate) {
-        super(price, myDate);
+
+    public PresidentRoom(double price, MyDate myDate, String fitnessCenter) {
+        super(price, myDate, fitnessCenter);
     }
 
-    @Override
-    public String toString() {
-        return "PresidentRoom{" +
-                "myDate=" + myDate +
-                '}';
-    }
+
 }

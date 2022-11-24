@@ -9,10 +9,14 @@ public class Main {
         - определения пересечения интервалов
          */
 
-        DeluxeRoom deluxeRoom1 = new DeluxeRoom(350,new MyDate(25,11,2022),"Fitness");
+        DeluxeRoom deluxeRoom1 = new DeluxeRoom(350,new MyDate(25,11,2022),"Inclusive");
         System.out.println(deluxeRoom1);
-        PresidentRoom presidentRoom1 = new PresidentRoom(450, new MyDate(13,9,2022));
+        PresidentRoom presidentRoom1 = new PresidentRoom(450, new MyDate(13,9,2022),"Inclusive");
         System.out.println(presidentRoom1);
+        SuperiorRoom superiorRoom1 = new SuperiorRoom(250,new MyDate(15,10,2022),"Separate payment");
+        System.out.println(superiorRoom1);
+        StandardRoom standardRoom1 = new StandardRoom(200,new MyDate(17,5,2022),"Separate payment");
+        System.out.println(standardRoom1);
 
     }
 
